@@ -1,0 +1,16 @@
+{
+  "name" : "DHT_ESP",
+  "title": "DHT_ESP32 sensor ",
+  "keywords": "dht11, 1-wire, bus, sensor, temperature",
+  "description": "Arduino ESP library for DHT11, DHT22, etc Temp & Humidity Sensors",
+  "git": "https://github.com/PrinceBot-Ratthanin/DHT_ESP32/",
+  "author": "adafruit | Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/DHT_ESP32/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "MIT",
+  "image" : "/static/display.jpg",
+  "homepage": "https://github.com/adafruit/DHT-sensor-library/"
+}
